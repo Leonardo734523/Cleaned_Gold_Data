@@ -1,6 +1,6 @@
 # Cleaned_Gold_Data
 
-## Preprocessing / Cleaning
+Preprocessing / Cleaning
 
 - Added an `id` column to uniquely identify each row.
 - Checked for missing values: filled gaps where possible; removed rows with insufficient data.
