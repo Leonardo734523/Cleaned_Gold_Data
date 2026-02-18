@@ -75,5 +75,5 @@ Render data in terminal
 
 ```python
 import pandas as pd
-df = pd.read_csv("Cleaned_Gold_Data.csv")
+df = pd.read_csv("gold_price_forecasting_dataset_2026.csv")
 df.head()
