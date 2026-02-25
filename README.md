@@ -12,7 +12,7 @@ Preprocessing / Cleaning
 
 Description
 
-This dataset contains daily gold futures market data for the last five years, sourced from Yahoo Finance using the ticker GC=F.
+This dataset contains daily gold market data for the last five years, sourced from Yahoo Finance using the ticker GC=F.
 
 It is designed specifically for time-series forecasting tasks, where the objective is to model and predict future gold prices using historical trends and technical indicators.
 
